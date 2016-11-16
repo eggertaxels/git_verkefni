@@ -1,1 +1,7 @@
 Git spurningar og svör
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd = CD skipun er notuð til að breyta núverandi möppu (þ.e., skrá þar sem notandi er núna að vinna í) í Linux og öðrum Unix-líkum stýrikerfum.
+	cd ~ = skrifar home slóðina fyrir þig. þarft ekki að skrifa : /home/josephine.
+	ls = gefur upplýsingar um skránnar sem þú ert að vinna á. (sjálkraf gefur upplýsingar á filinu sem maður er staddur á).
+	pwd = prentar út upplýsingar um á hvaða skjali þú ert að vinna á.
+	mkdir = býr til nýt directory.
