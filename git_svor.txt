@@ -5,3 +5,10 @@ Git spurningar og svör
 	ls = gefur upplýsingar um skránnar sem þú ert að vinna á. (sjálkraf gefur upplýsingar á filinu sem maður er staddur á).
 	pwd = prentar út upplýsingar um á hvaða skjali þú ert að vinna á.
 	mkdir = býr til nýt directory.
+    
+2. Gagnlegar skipanirn
+	git clone = klónar repository yfir í nýtt directory.
+    git log	= synir allar commits sem notandi hefur gert í directory
+	git status = synir status á directory
+	git diff = synir breytingarnar sem notandi hefur gert 
+	git checkout = er notad til að athuga status á repository sem notandi velur
