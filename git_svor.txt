@@ -12,3 +12,5 @@ Git spurningar og svör
 	git status = synir status á directory
 	git diff = synir breytingarnar sem notandi hefur gert 
 	git checkout = er notad til að athuga status á repository sem notandi velur
+	
+	iuygouyvoutyvouytfcv
