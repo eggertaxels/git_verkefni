@@ -12,5 +12,11 @@ Git spurningar og svör
 	git status = synir status á directory
 	git diff = synir breytingarnar sem notandi hefur gert 
 	git checkout = er notad til að athuga status á repository sem notandi velur
-	
-	iuygouyvoutyvouytfcv
+    
+3.Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff 			
+		:synir bretingar í skjali siðan siðasta commit var gert
+	b) git diff --staged 
+		:synir munnin sem er staged en ekki komid i commit 
+	c) git diff commit1 commit2
+		:synir muninn milli commit1 og commit2
