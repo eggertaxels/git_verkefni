@@ -39,5 +39,3 @@ Git spurningar og svör
     
 8.	Hvenær er sniðugt að nota greinar (branches)? 
 	: það getur verið sniðugut að gera nytt branch ef maður ætlar sér að gera stórar breytingar á verkefninu sjálfu.
-    
-    Eggert Geir
