@@ -31,3 +31,8 @@ Git spurningar og svör
 	:ég held ég þurfi að nota það frekar oft t.d. til ad vista nyjar breytingar eða hafa backup ef eitthvað fer utskeiðis
     
 7.	Hvað er "Working directory"?" "Staging area"?" og repository GIT?
+    :Working directory er svæði sem breytingar gersast og er borið saman við local repository
+	
+	:Staging area	er skrefi á undan commit process i git. þannig skjol sem notandi hefur stafest breytingar eru i staged og eiga eftir ad fara i commit.
+
+	:repository er geymsla sem heldur utan um verkefnin
