@@ -36,3 +36,6 @@ Git spurningar og svör
 	:Staging area	er skrefi á undan commit process i git. þannig skjol sem notandi hefur stafest breytingar eru i staged og eiga eftir ad fara i commit.
 
 	:repository er geymsla sem heldur utan um verkefnin
+    
+8.	Hvenær er sniðugt að nota greinar (branches)? 
+	: það getur verið sniðugut að gera nytt branch ef maður ætlar sér að gera stórar breytingar á verkefninu sjálfu.
