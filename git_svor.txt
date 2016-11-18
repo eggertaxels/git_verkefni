@@ -26,3 +26,6 @@ Git spurningar og svör
     
 5.	Hverjir eru helstu kostir við að nota GIT?
 	:það er mjög gott þegar þu ert að vinna og ert bara með það vistað á einum stað og þa getiru náð í koðan aftur ef eitthvað  fer útskeiðis eða t.d í hopverkefni þá geta aðrir notað kodan þinn lika
+    
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+	:ég held ég þurfi að nota það frekar oft t.d. til ad vista nyjar breytingar eða hafa backup ef eitthvað fer utskeiðis
