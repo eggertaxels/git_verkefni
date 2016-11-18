@@ -29,3 +29,5 @@ Git spurningar og svör
     
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 	:ég held ég þurfi að nota það frekar oft t.d. til ad vista nyjar breytingar eða hafa backup ef eitthvað fer utskeiðis
+    
+7.	Hvað er "Working directory"?" "Staging area"?" og repository GIT?
